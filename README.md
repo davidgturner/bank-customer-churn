@@ -33,5 +33,5 @@ The case study is from an open-source dataset from Kaggle. The dataset contains 
 ## Export notebook to a HTML file
 
 ```bash
-cd .\BankChurnPrediction\
-jupyter nbconvert --execute --to html .\INN_Learner_Notebook_Full_code.ipynb
+cd .\bank-customer-churn\
+jupyter nbconvert --execute --to html .\bank_churn_prediction_v2.ipynb
