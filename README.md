@@ -32,5 +32,6 @@ The case study is from an open-source dataset from Kaggle. The dataset contains 
 
 ## Export notebook to a HTML file
 
-``` cd .\BankChurnPrediction\ ```
-``` jupyter nbconvert --execute --to html .\INN_Learner_Notebook_Full_code.ipynb ```
+```bash
+cd .\BankChurnPrediction\
+jupyter nbconvert --execute --to html .\INN_Learner_Notebook_Full_code.ipynb
